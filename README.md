@@ -1,5 +1,7 @@
 # Disco-elysium-style-portrait
 
+![image](http://www.baidu.com/img/bdlogo.gif](https://github.com/Roawaal/Disco-elysium-style-portrait/blob/main/outcome/Screenshot%202023-02-09%20at%2014.18.17.png)  
+
 ## Resources:
 [Style Images](https://discoelysium.fandom.com/wiki/Category:Portraits)
 
